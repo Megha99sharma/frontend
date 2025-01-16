@@ -1,4 +1,4 @@
-# Groot-Frontend
+# Frontend
 
 Frontend application for https://github.com/megha99sharma/backend .
 
